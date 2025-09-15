@@ -15,7 +15,7 @@ A Laravel-based restaurant management API system for handling orders, bookings, 
 1. **Clone and install dependencies**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AhmedSallam7810/mini-Restaurant.git
 cd mini_restaurant
 composer install
 ```
