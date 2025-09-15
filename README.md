@@ -8,8 +8,7 @@ A Laravel-based restaurant management API system for handling orders, bookings, 
 
 -   PHP 8.1+
 -   Composer
--   MySQL/MariaDB
--   Node.js (optional, for frontend)
+-   MySQL
 
 ### Installation
 
